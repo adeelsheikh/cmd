@@ -1,0 +1,1 @@
+aws lambda update-function-code --function-name <function-name> --zip-file fileb://<zip-file-name>
